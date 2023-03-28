@@ -3,7 +3,7 @@
 #include <vector>
 #include <fstream>
 #include <string>
-#include <time.h>
+#include <time.h>r
 using namespace std;
 
 void PrintMessage(string message, bool printTop = true, bool printBottom = true) {
